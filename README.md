@@ -1,4 +1,4 @@
-# Digital Image Processing Assignments in MatLab
+# Digital Image Processing Assignments
 
 This repository contains weekly assignments of Comp 403 course in Istanbul Bilgi University.
 
@@ -12,4 +12,6 @@ Your input image is the "Lena.jpg" picture.
 * What type of image is it?
 * Your task is to read the original image and to modify it using a 3-bit quantization bar. Your MATLAB
 code will show the image before and after the quantization process.
+
+Click [here](https://github.com/mdegis/Image-Processing/blob/master/Quantization/Quantization.m) to see code.
 
