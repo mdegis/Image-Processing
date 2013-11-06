@@ -12,7 +12,10 @@ newmaxval = 2^newbit - 1;
 bitdepth = info.BitDepth;
 currentmaxval = 2^bitdepth -1;
 New = Data * (newmaxval/currentmaxval);
-imshow(New,[0, newmaxval])
-imwrite(New, 'new.jpg');
+a = rgb2ind(New, 7);
+imshow(a)
+%imwrite(New, 'new.jpg');
+%n = imread('new.jpg');
+%imshow(n,[0, newmaxval])
 
 end
