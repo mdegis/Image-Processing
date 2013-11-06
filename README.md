@@ -13,7 +13,7 @@ Your input image is the "Lena.jpg" picture.
 * Your task is to read the original image and to modify it using a 3-bit quantization bar. Your MATLAB
 code will show the image before and after the quantization process.
 
-Click [here](https://github.com/mdegis/Image-Processing/blob/master/Quantization/Quantization.m) to see my solution.
+Click [here](https://github.com/mdegis/Image-Processing/blob/master/Quantization.m) to see my solution.
 
 ## Assignment 02: BitPlane Slicing
 
@@ -21,5 +21,8 @@ A digital image is a matrix f(x,y)=greylevel, where the greylevel is the pixel�
 
 Your input image is the ”Lena.jpg” picture:
 
-* Your task is to read the original image and to create the corresponding eight 1-bit planes;
+* Your task is to read the original image and to create the corresponding eight 1-bit planes
 * Your MATLAB code will show the original image and all the eight 1-bit planes.
+
+
+Click [here](https://github.com/mdegis/Image-Processing/blob/master/BitPlaneSlicing.m) to see my solution.
