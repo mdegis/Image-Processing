@@ -24,5 +24,6 @@ Your input image is the ”Lena.jpg” picture:
 * Your task is to read the original image and to create the corresponding eight 1-bit planes
 * Your MATLAB code will show the original image and all the eight 1-bit planes.
 
+![ScreenShot](https://raw.github.com/mdegis/Image-Processing/master/BitPlaneSlicingOUTPUT.png?token=1271373__eyJzY29wZSI6IlJhd0Jsb2I6bWRlZ2lzL0ltYWdlLVByb2Nlc3NpbmcvbWFzdGVyL0JpdFBsYW5lU2xpY2luZ09VVFBVVC5wbmciLCJleHBpcmVzIjoxMzg0Mzc4MDkyfQ%3D%3D--421c99715b022de2a5e74ce6d67ca5f9b762b2cc)
 
 Click [here](https://github.com/mdegis/Image-Processing/blob/master/BitPlaneSlicing.m) to see my solution.
