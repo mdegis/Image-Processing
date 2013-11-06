@@ -16,7 +16,8 @@ code will show the image before and after the quantization process.
 Click [here](https://github.com/mdegis/Image-Processing/blob/master/Quantization.m) to see my solution.
 
 Example Output:
-![ScreenShot](https://raw.github.com/mdegis/Image-Processing/master/QuantizationOUTPUT.png?token=1271373__eyJzY29wZSI6IlJhd0Jsb2I6bWRlZ2lzL0ltYWdlLVByb2Nlc3NpbmcvbWFzdGVyL1F1YW50aXphdGlvbk9VVFBVVC5wbmciLCJleHBpcmVzIjoxMzg0Mzc4ODY0fQ%3D%3D--9f34d97c38bd9ccb1288f906c9ff733e59b9973b)
+
+![ScreenShot](https://raw.github.com/mdegis/Image-Processing/master/outputs/QuantizationOUTPUT.png?token=1271373__eyJzY29wZSI6IlJhd0Jsb2I6bWRlZ2lzL0ltYWdlLVByb2Nlc3NpbmcvbWFzdGVyL291dHB1dHMvUXVhbnRpemF0aW9uT1VUUFVULnBuZyIsImV4cGlyZXMiOjEzODQzNzkxOTh9--758f8249f0edff83e05eb6f94d97f47ad00369f1)
 
 ## Assignment 02: BitPlane Slicing
 
@@ -30,4 +31,5 @@ Your input image is the ”Lena.jpg” picture:
 Click [here](https://github.com/mdegis/Image-Processing/blob/master/BitPlaneSlicing.m) to see my solution.
 
 Example Output:
-![ScreenShot](https://raw.github.com/mdegis/Image-Processing/master/BitPlaneSlicingOUTPUT.png?token=1271373__eyJzY29wZSI6IlJhd0Jsb2I6bWRlZ2lzL0ltYWdlLVByb2Nlc3NpbmcvbWFzdGVyL0JpdFBsYW5lU2xpY2luZ09VVFBVVC5wbmciLCJleHBpcmVzIjoxMzg0Mzc4MDkyfQ%3D%3D--421c99715b022de2a5e74ce6d67ca5f9b762b2cc)
+
+![ScreenShot](https://raw.github.com/mdegis/Image-Processing/master/outputs/BitPlaneSlicingOUTPUT.png?token=1271373__eyJzY29wZSI6IlJhd0Jsb2I6bWRlZ2lzL0ltYWdlLVByb2Nlc3NpbmcvbWFzdGVyL291dHB1dHMvQml0UGxhbmVTbGljaW5nT1VUUFVULnBuZyIsImV4cGlyZXMiOjEzODQzNzkyMTh9--ad3abfa5e5c5022b70fbd2593acbd9166ccc962d)
