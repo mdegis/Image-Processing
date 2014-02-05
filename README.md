@@ -17,7 +17,9 @@ Click [here](https://github.com/mdegis/Image-Processing/blob/master/Quantization
 
 Example Output:
 
-![ScreenShot](/output/QuantizationOUTPUT.png)
+<center>
+![ScreenShot](https://raw.github.com/mdegis/Image-Processing/master/outputs/QuantizationOUTPUT.png)
+</center>
 
 ## Assignment 02: BitPlane Slicing
 
@@ -32,4 +34,4 @@ Click [here](https://github.com/mdegis/Image-Processing/blob/master/BitPlaneSlic
 
 Example Output:
 
-![ScreenShot](/output/BitPlaneSlicingOUTPUT.png)
+![ScreenShot](https://raw.github.com/mdegis/Image-Processing/master/outputs/BitPlaneSlicingOUTPUT.png)
