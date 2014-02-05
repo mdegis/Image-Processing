@@ -17,7 +17,7 @@ Click [here](https://github.com/mdegis/Image-Processing/blob/master/Quantization
 
 Example Output:
 
-![ScreenShot](https://raw.github.com/mdegis/Image-Processing/master/outputs/QuantizationOUTPUT.png?token=1271373__eyJzY29wZSI6IlJhd0Jsb2I6bWRlZ2lzL0ltYWdlLVByb2Nlc3NpbmcvbWFzdGVyL291dHB1dHMvUXVhbnRpemF0aW9uT1VUUFVULnBuZyIsImV4cGlyZXMiOjEzODQzNzkxOTh9--758f8249f0edff83e05eb6f94d97f47ad00369f1)
+![ScreenShot](output/QuantizationOUTPUT.png)
 
 ## Assignment 02: BitPlane Slicing
 
@@ -32,4 +32,4 @@ Click [here](https://github.com/mdegis/Image-Processing/blob/master/BitPlaneSlic
 
 Example Output:
 
-![ScreenShot](https://raw.github.com/mdegis/Image-Processing/master/outputs/BitPlaneSlicingOUTPUT.png?token=1271373__eyJzY29wZSI6IlJhd0Jsb2I6bWRlZ2lzL0ltYWdlLVByb2Nlc3NpbmcvbWFzdGVyL291dHB1dHMvQml0UGxhbmVTbGljaW5nT1VUUFVULnBuZyIsImV4cGlyZXMiOjEzODQzNzkyMTh9--ad3abfa5e5c5022b70fbd2593acbd9166ccc962d)
+![ScreenShot](output/BitPlaneSlicingOUTPUT.png)
